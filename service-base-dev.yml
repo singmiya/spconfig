@@ -1,3 +1,1 @@
-eureka:
-  instance:
-    hostname: singsmiya.com
+test=abc
