@@ -1,3 +1,9 @@
-abx:
-  a:
-    c: abc
+spring:
+  cloud:
+    gateway:
+      routes:
+        - id: rft-plat-service-base
+          uri: lb://rft-plat-service-base
+          predicates:
+            - Path=/test
+            - Method=GET
