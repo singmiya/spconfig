@@ -1,4 +1,4 @@
 eureka:
   instance:
     hostname: singsmiya.com
-test: abc112344556
+test=abc112344556
