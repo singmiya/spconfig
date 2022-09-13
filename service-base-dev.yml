@@ -1,4 +1,6 @@
 eureka:
   instance:
     hostname: singsmiya.com
-test=abc112344556
+test:
+  key: abc112344556
+  value: bbabab
