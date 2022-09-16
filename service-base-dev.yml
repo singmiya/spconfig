@@ -1,6 +1,3 @@
-eureka:
-  instance:
-    hostname: singsmiya.com
 test:
   key: abc112344556
   value: bbabab
