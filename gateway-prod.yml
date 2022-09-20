@@ -1,0 +1,6 @@
+gateway:
+  auth:
+    host: https://boss.greatge.net/commsso
+    user-info-url: /getUserInfo
+    login: /login
+    logout: /logout
